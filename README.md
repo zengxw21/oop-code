@@ -1,2 +1,2 @@
 # oop-code
-2021 spring object oriented programming exercises
+2022 spring object oriented programming exercises
